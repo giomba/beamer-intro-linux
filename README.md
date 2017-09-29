@@ -1,4 +1,5 @@
-# Presentazione di Introduzione al software libero realizzata per GOLEM (golem.linux.it)
+# Presentazione di Introduzione al software libero
+Realizzata per GOLEM (golem.linux.it)
 
 ## Sorgenti
 	presentazione.tex
@@ -8,5 +9,5 @@
 	make [diapo]
 
 ## Distribuzione
-	File PDF sotto dist/
+File PDF sotto dist/
 
